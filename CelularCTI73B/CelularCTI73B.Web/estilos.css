@@ -1,0 +1,30 @@
+﻿body {
+    font-family: Arial, Tahoma;
+}
+
+.menu th {
+    background-color: #0066CC;
+    color: white;
+}
+
+.menu th, .menu td {
+    padding: 3 3 3 3;
+}
+
+.zebra {
+    background-color: #C9DEEF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.conteudo {
+    margin: 10 10 10 10;
+    border: 1px solid #3366CC;
+    width: 95%;
+}
+
+    .conteudo th {
+        background-color: #C9DEEF;
+    }
