@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelularCTI73B.Desktop", "Ce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelularCTI73B.Model", "CelularCTI73B.Model\CelularCTI73B.Model.csproj", "{8A0E2070-AE51-49EA-A0C2-9FA9778F9836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelularCTI73B.Web", "CelularCTI73B.Web\CelularCTI73B.Web.csproj", "{DD2DFD5D-4CBC-4F5B-B728-2F3AA4942D8C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{8A0E2070-AE51-49EA-A0C2-9FA9778F9836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A0E2070-AE51-49EA-A0C2-9FA9778F9836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A0E2070-AE51-49EA-A0C2-9FA9778F9836}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD2DFD5D-4CBC-4F5B-B728-2F3AA4942D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD2DFD5D-4CBC-4F5B-B728-2F3AA4942D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD2DFD5D-4CBC-4F5B-B728-2F3AA4942D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD2DFD5D-4CBC-4F5B-B728-2F3AA4942D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
